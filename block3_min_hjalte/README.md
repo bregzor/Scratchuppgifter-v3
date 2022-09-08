@@ -2,8 +2,7 @@
 
 Här kan du skapa en animerad berättelse om en hjälte i Scratch! Vem är din hjälte? Låt fantasin flöda.
 
-> Bläddra dig fram genom denna guide, steg för steg. <a href="https://scratch.mit.edu" target="_blank">
-  Öppna även kodarverktyget Scratch genom att klicka på länken bredvid katt-figuren ovan eller via www.scratch.mit.edu</a>. Här kodar och skapar du själva spelet utifrån instruktionerna nedan. 
+> Bläddra dig fram genom denna guide, steg för steg. <a href="https://scratch.mit.edu" target="_blank">Öppna även kodarverktyget Scratch genom att klicka på länken bredvid katt-figuren ovan eller via www.scratch.mit.edu</a>. Här kodar och skapar du själva spelet utifrån instruktionerna nedan. 
 
 Den här berättelsen bygger på den röda tråden: Vem, Var, Vad, Hur, Mål. Det handlar alltså om en hjälte som ska nå ett mål men som möter en motståndare eller ett hinder på vägen som behöver övervinnas för att komma till målet. För att planera din berättelse och vad den ska handla om passar övningen <a href="https://www.kodboken.se/start/skapa-berattelser/lekar-och-ovningar/en-rod-trad" target="_blank">**En Röd Tråd**</a>. Där bestämmer du vad de olika delarna ska vara för **Vem, Var, Vad, Hur, Mål.** Sen kan du koda med det du planerat som grund.
 
